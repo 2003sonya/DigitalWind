@@ -1,0 +1,47 @@
+@font-face {
+font-family: Roboto-Bold;
+src: url("../fonts/Roboto-Bold.ttf");
+  }
+
+.mainBaner{
+    position: relative;
+}
+.text{
+    font-family: Roboto-Bold;
+    position: absolute;
+    width: 57.05rem;
+    font-size: 2rem;
+    text-align: left;
+    top: 1.66rem;
+    left: 15.66rem;
+    color: rgb(255, 255, 255);
+}
+.becomeParticipant{
+    font-size: 1.33rem;
+    background-color: rgb(255, 255, 255);
+    color: #368EF5;
+    font-weight: 33.33rem;
+    position: absolute;
+    top: 20.0rem;
+    left: 15.66rem;
+    border-radius: 0%;
+    border: 0rem;
+    border-color: rgb(255, 255, 255);
+    border-style: none;
+    padding: 1.83rem 3.72rem;
+}
+.becomeParticipant:active{
+    font-size: 1.33rem;
+    background-color: rgb(255, 255, 255);
+    color: #368EF5;
+    font-weight: 33.33rem;
+    position: absolute;
+    top: 20.0rem;
+    left: 15.66rem;
+    border-radius: 0%;
+    border: 0rem;
+    border-color: rgb(255, 255, 255);
+    border-style: none;
+    border:none;
+    padding: 1.83rem 3.72rem;
+}
